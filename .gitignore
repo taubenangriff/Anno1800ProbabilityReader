@@ -338,3 +338,7 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Anno1800ProbabilityReader/xmltest.exe
+/Anno1800ProbabilityReader/assets.xml
+/Anno1800ProbabilityReader/modops.xml
+/Anno1800ProbabilityReader/patched.xml
