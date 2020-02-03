@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anno1800ProbabilityReader", "Anno1800ProbabilityReader\Anno1800ProbabilityReader.csproj", "{0EE1E318-CE69-4386-AE16-630EE159201E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE1E318-CE69-4386-AE16-630EE159201E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE1E318-CE69-4386-AE16-630EE159201E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE1E318-CE69-4386-AE16-630EE159201E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE1E318-CE69-4386-AE16-630EE159201E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37ADD788-9EA0-4D3F-A4CE-55F54470AF81}
+	EndGlobalSection
+EndGlobal
